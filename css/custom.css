@@ -92,6 +92,11 @@ a.fa.fa-angle-down {
     background: transparent url("../img/bibliotheque-moderne-2.jpg") no-repeat fixed center center / cover !important;
 }
 
+#tf-about {
+    background: transparent url("../img/couloir-porte-amphi-2.jpg") no-repeat fixed center center / cover !important;
+    color: white !important;
+}
+
 #tf-services {
     color: white !important;
     font-weight: bold;
@@ -163,11 +168,21 @@ button.btn.tf-btn.btn-default {
 }
 
 .publications {
-    background-color: rgba(253,240,234,0.8);
+    background-color: rgba(253,240,234,0.7);
     padding-top: 3em !important;
     padding-bottom: 0.5em !important;
     padding-left: 3em !important;
     text-align: left;
 }
 
-.footer-social a
+.bloc-about {
+    background-color: rgba(45,45,45,0.8);
+    padding-top: 3em !important;
+    padding-bottom: 0.5em !important;
+    padding-left: 3em !important;
+    text-align: left;
+}
+
+h2 {
+    line-height: 1.5em;
+}
