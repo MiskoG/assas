@@ -11,19 +11,19 @@ $(window).load(function(){
             }).fadeTo(300, 1);
             imgNumber++;
         }
-        /*else {if(imgNumber==2) {
+        else {if(imgNumber==2) {
             $('#tf-home').delay(7000).fadeTo(400, 0.4, function()
             {
-                $(this).css('background-image', 'url(img/home3.jpg)');
+                $(this).css('background-image', 'url(img/home2.jpg)');
             }).fadeTo(400, 1);
             imgNumber++;
-        }*/ else {
+        } else {
             $('#tf-home').delay(7000).fadeTo(400, 0.4, function()
             {
                 $(this).css('background-image', 'url(img/home1.jpg)');
             }).fadeTo(300, 1);
             imgNumber=1;
-        }/*}*/
+        }}
 
         setTimeout(changeBackground(),7000);
     }
