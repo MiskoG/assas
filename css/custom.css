@@ -186,3 +186,12 @@ button.btn.tf-btn.btn-default {
 h2 {
     line-height: 1.5em;
 }
+
+#tf-about a {
+    font-weight: bold;
+    color: #ed727d !important;
+}
+
+#tf-about a:hover {
+    text-decoration: underline;
+}
