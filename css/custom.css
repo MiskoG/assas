@@ -59,15 +59,15 @@ a.fa.fa-angle-down:hover {
 }
 
 a.fa.fa-angle-down {
-    margin-top: 110px !important;
+    margin-top: 30px !important;
 }
 
 #tf-home h1 {
-	line-height: 1.9em;
+	line-height: 1.5em;
 }
 
 #tf-home .content {
-    padding: 15% 0px 0px !important;
+    padding: 140px 0px 0px !important;
 }
 
 #tf-home .overlay {
