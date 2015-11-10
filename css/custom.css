@@ -85,7 +85,7 @@ a.fa.fa-angle-down {
 }
 */
 #tf-team {
-    background: transparent url("../img/amphitheatre-moderne-2.jpg") no-repeat fixed center center / cover !important;
+    background: transparent url("../img/amphitheatre-ancien-2.jpg") no-repeat fixed center center / cover !important;
 }
 
 #tf-contact {
@@ -194,4 +194,8 @@ h2 {
 
 #tf-about a:hover {
     text-decoration: underline;
+}
+
+#footer p {
+    color: #8C8C8C !important;
 }
