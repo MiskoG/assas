@@ -199,3 +199,9 @@ h2 {
 #footer p {
     color: #8C8C8C !important;
 }
+
+.domaine-etude-subtitle {
+    font-weight: normal;
+    margin-top: 2em;
+    margin-bottom: 1.8em !important;
+}
